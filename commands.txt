@@ -39,3 +39,10 @@ git commit -m "message"
 
 git status 
 	- displays the current status of the file/folder.
+
+git log
+	-displays all commits made
+
+
+git log --oneline
+	-condensed version of git log
